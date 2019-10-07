@@ -1,6 +1,6 @@
-package com.epam.springboot.repository;
+package com.aivanov.springboot.repository;
 
-import com.epam.springboot.model.Employee;
+import com.aivanov.springboot.model.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

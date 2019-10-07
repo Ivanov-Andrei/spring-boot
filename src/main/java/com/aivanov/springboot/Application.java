@@ -1,4 +1,4 @@
-package com.epam.springboot;
+package com.aivanov.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.epam.springboot.model;
+package com.aivanov.springboot.model;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;

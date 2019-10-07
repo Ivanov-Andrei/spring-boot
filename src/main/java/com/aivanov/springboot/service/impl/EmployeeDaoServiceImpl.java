@@ -1,8 +1,8 @@
-package com.epam.springboot.service.impl;
+package com.aivanov.springboot.service.impl;
 
-import com.epam.springboot.model.Employee;
-import com.epam.springboot.repository.EmployeeRepository;
-import com.epam.springboot.service.EmployeeDaoService;
+import com.aivanov.springboot.model.Employee;
+import com.aivanov.springboot.repository.EmployeeRepository;
+import com.aivanov.springboot.service.EmployeeDaoService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,7 +1,7 @@
-package com.epam.springboot.controller;
+package com.aivanov.springboot.controller;
 
-import com.epam.springboot.model.Employee;
-import com.epam.springboot.service.EmployeeDaoService;
+import com.aivanov.springboot.model.Employee;
+import com.aivanov.springboot.service.EmployeeDaoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,7 +1,7 @@
-package com.epam.springboot.controller;
+package com.aivanov.springboot.controller;
 
-import com.epam.springboot.model.Employee;
-import com.epam.springboot.service.EmployeeDaoService;
+import com.aivanov.springboot.model.Employee;
+import com.aivanov.springboot.service.EmployeeDaoService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.After;
 import org.junit.Before;
